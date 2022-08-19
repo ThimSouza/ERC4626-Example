@@ -6,6 +6,8 @@
 
 A smart contract that implements ERC4626 standard.
 
+It receives the token I [deployed](https://github.com/ThimSouza/ERC20-Upgradeable-example), and returns the vault's shares
+
 ## Build and test
 
 ``` sh
